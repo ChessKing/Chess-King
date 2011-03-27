@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="moves_per_session_texts">
+        <item>Whole Game</item>
+        <item>1 move</item>
+        <item>10 moves</item>
+        <item>20 moves</item>
+        <item>30 moves</item>
+        <item>40 moves</item>
+        <item>50 moves</item>
+        <item>60 moves</item>
+    </string-array>
+    <string-array name="moves_per_session_values">
+        <item>0</item>
+        <item>1</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="time_control_texts">
+        <item>15 seconds</item>
+        <item>30 seconds</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>3 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
+        <item>60 minutes</item>
+        <item>90 minutes</item>
+        <item>120 minutes</item>
+    </string-array>
+    <string-array name="time_control_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>180000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>900000</item>
+        <item>1800000</item>
+        <item>2700000</item>
+        <item>3600000</item>
+        <item>5400000</item>
+        <item>7200000</item>
+    </string-array>
+    <string-array name="time_increment_texts">
+        <item>0s</item>
+        <item>1s</item>
+        <item>2s</item>
+        <item>3s</item>
+        <item>4s</item>
+        <item>5s</item>
+        <item>10s</item>
+        <item>12s</item>
+        <item>15s</item>
+        <item>30s</item>
+        <item>60s</item>
+    </string-array>
+    <string-array name="time_increment_values">
+        <item>0</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>12000</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+    </string-array>
+    <string-array name="font_size_texts">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <string-array name="font_size_values">
+        <item>10</item>
+        <item>12</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="thinking_arrows_texts">
+        <item>No arrows</item>
+        <item>Max 1 Arrow</item>
+        <item>Max 2 Arrows</item>
+        <item>Max 3 Arrows</item>
+        <item>Max 4 Arrows</item>
+        <item>Max 5 Arrows</item>
+        <item>Max 6 Arrows</item>
+    </string-array>
+    <string-array name="thinking_arrows_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="scroll_sensitivity_texts">
+        <item>Off</item>
+        <item>Slowest</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Fastest</item>
+    </string-array>
+    <string-array name="scroll_sensitivity_values">
+        <item>0</item>
+        <item>6</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0.5</item>
+    </string-array>
+</resources>
